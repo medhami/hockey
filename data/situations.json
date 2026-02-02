@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sit1",
+    "title": "Podražení v souboji o puk",
+    "mediaType": "image",
+    "src": "assets/images/situace1.jpg",
+    "correctCall": "tripping",
+    "foulOptions": ["tripping", "slashing", "cross_checking", "interference", "high_stick"],
+    "timeLimitMs": 6000,
+    "comment": "Hráč byl podražen holí přes nohy. Správné posouzení: Podražení."
+  },
+  {
+    "id": "sit2",
+    "title": "Souboj bez faulu",
+    "mediaType": "image",
+    "src": "assets/images/situace2.jpg",
+    "correctCall": "no_foul",
+    "foulOptions": ["tripping", "slashing", "cross_checking", "interference", "high_stick"],
+    "timeLimitMs": 6000,
+    "comment": "Zákrok byl v mezích pravidel, bez zásahu holí nebo tělem mimo povolený rámec."
+  }
+]
